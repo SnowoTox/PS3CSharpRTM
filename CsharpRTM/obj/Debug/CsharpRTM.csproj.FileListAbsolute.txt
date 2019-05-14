@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\CsharpRTM\CsharpRTM\bin\Debug\CsharpRTM.exe.config
+C:\Users\ADMIN\source\repos\CsharpRTM\CsharpRTM\bin\Debug\CsharpRTM.exe
+C:\Users\ADMIN\source\repos\CsharpRTM\CsharpRTM\bin\Debug\CsharpRTM.pdb
+C:\Users\ADMIN\source\repos\CsharpRTM\CsharpRTM\bin\Debug\PS3Lib.dll
+C:\Users\ADMIN\source\repos\CsharpRTM\CsharpRTM\bin\Debug\ps3tmapi_net.dll
+C:\Users\ADMIN\source\repos\CsharpRTM\CsharpRTM\obj\Debug\CsharpRTM.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\CsharpRTM\CsharpRTM\obj\Debug\CsharpRTM.Form1.resources
+C:\Users\ADMIN\source\repos\CsharpRTM\CsharpRTM\obj\Debug\CsharpRTM.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\CsharpRTM\CsharpRTM\obj\Debug\CsharpRTM.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\CsharpRTM\CsharpRTM\obj\Debug\CsharpRTM.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CsharpRTM\CsharpRTM\obj\Debug\CsharpRTM.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\CsharpRTM\CsharpRTM\obj\Debug\CsharpRTM.exe
+C:\Users\ADMIN\source\repos\CsharpRTM\CsharpRTM\obj\Debug\CsharpRTM.pdb
